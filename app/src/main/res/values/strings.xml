@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">PopShow</string>
+    <string name="DescripcionCaldas">El Parque Caldas es la plaza principal de la ciudad de Popayán, Colombia. Se encuentra ubicado en el centro de la Ciudad, lugar donde convergen todos los edificios principales y representativos de la ciudad.</string>
+    <string name="DescripcionMuseoHN">Es un importante centro de investigación, exhibición y proyección a la comunidad, por cuanto estimula el conocimiento de las Ciencias Naturales y Sociales.</string>
+    <string name="DescripcionErmita">La Ermita de Jesús Nazareno es el templo más antiguo de la ciudad de Popayán, ubicada sobre una prominencia en el centro histórico de esta ciudad. Fue el principal templo de la ciudad hasta 1558.</string>
+    <string name="DescripcionMorro">El Morro del Tulcán es el principal sitio arqueológico de Popayán. Este consiste en una loma no natural en forma de pirámide donde en su cima se encuentra un monumento en honor al Conquistador Sebastián de Belalcázar.</string>
+    <string name="DescripcionCampanario">Es el centro comercial mas antiguo e importante de la ciudad. encuentras gran variedad de almacenes, plazoleta de comidas y el gimnasio SMARTFIT.</string>
+    <string name="DescripcionPueblitoP">Es un lugar en donde las obras de arte de la ciudad de Popayán son replicadas en tamaños considerables y reunidas en un solo lugar para que los turistas puedan apreciarlas y enamorarse de tan hermosas esculturas.</string>
+
+
+    <string name="title_activity_caldas" translatable="false">PARQUE CALDAS</string>
+    <string name="title_activity_MuseoHn" translatable="false">MUSEO DE HISTORIA NATURAL</string>
+    <string name="title_activity_ermita" translatable="false">LA ERMITA</string>
+    <string name="title_activity_morro" translatable="false">EL MORRO</string>
+    <string name="title_activity_campanario" translatable="false">CAMPANARIO</string>
+    <string name="title_activity_pueblitop" translatable="false">PUEBLITO PATOJO</string>
+    <string name="title_activity_favoritos">FAVORITOS</string>
+    <string name="title_activity_splash" translatable="false">SPLASH</string>
+
+    <string name="ButtonPueblito" translatable="false">PUEBLITO PATOJO</string>
+    <string name="ButtonCaldas" translatable="false">PARQUE CALDAS</string>
+    <string name="ButtonMuseo" translatable="false">MUSEO DE HISTORIA NATURAL</string>
+    <string name="ButtonErmita" translatable="false">LA ERMITA</string>
+    <string name="ButtonMorro" translatable="false">EL MORRO</string>
+    <string name="ButtonCampanario" translatable="false">CAMPANARIO</string>
+
+    <string name="PopShow" translatable="false">PopShow</string>
+    <string name="title_caldas" translatable="false">Parque Caldas</string>
+    <string name="title_museo_hn" translatable="false">Museo de Historia Natural</string>
+    <string name="title_ermita" translatable="false">La Ermita</string>
+    <string name="title_morro" translatable="false">El Morro</string>
+    <string name="title_campanario" translatable="false">Campanario</string>
+    <string name="title_pueblitop" translatable="false">Pueblito Patojo</string>
+    <string name="Favoritos">Favoritos</string>
+
+    <string name="DescubreP">"'Descubre Popayán'"</string>
+    <string name="SitiosPop">Sitios Turísticos : </string>
+    <string name="MapaImagen" translatable="false">Mapa</string>
+    <string name="como_llegar">Como llegar ?</string>
+    <string name="añadidoFavoritos">Añadido a Favoritos</string>
+    <string name="Gracias">Gracias</string>
+    <string name="TextoSplash" translatable = "false"> <b>Diseñado por : \n@JuanRosero97 \nhttps://github.com/JuanRosero97?tab=repositories</b></string>
+    <string name="principal">PRINCIPAL</string>
+    <string name="QR"> COD. QR</string>
+    <string name="scan_canceled">Scan cancelado</string>
+    <string name="QR_no_encontrado">No encontrado</string>
+
+    <!--This URL should change according to what the server provides you-->
+    <string name="url">http://192.168.100.127:8080/POSIBLE%20FINAL/popshow.xml</string>
+
+</resources>

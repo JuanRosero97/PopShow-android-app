@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+  <xml_api_reply version="1">
+  
+
+<SitiosTuristicos module_id="0" tab_id="0" mobile_row="0" mobile_zipped="1" row="0" section="0">
+
+<Sitio>
+
+<Nombre data ="Parque Caldas"/>
+<Descripcion data= "El Parque Caldas es la plaza principal de la ciudad de Popayan, Colombia. Se encuentra ubicado en el centro de la Ciudad, lugar donde convergen todos los edificios principales y representativos de la ciudad."/>
+</Sitio>
+
+<Sitio>
+
+<Nombre data ="Museo H"/>
+<Descripcion data= "Es un importante centro de investigacion, exhibicion y proyeccion a la comunidad, por cuanto estimula el conocimiento de las Ciencias Naturales y Sociales."/>
+</Sitio>
+
+<Sitio>
+
+<Nombre data ="Ermita"/>
+<Descripcion data= "La Ermita de Jesus Nazareno es el templo mas antiguo de la ciudad de Popayan, ubicada sobre una prominencia en el centro historico de esta ciudad. Fue el principal templo de la ciudad hasta 1558."/>
+</Sitio>
+
+<Sitio>
+<Nombre data = "Morro"/>
+<Descripcion data = "El Morro del Tulcan es el principal sitio arqueologico de Popayan. Este consiste en una loma no natural en forma de piramide donde en su cima se encuentra un monumento en honor al Conquistador Sebastian de Belalcazar."/>
+</Sitio>
+
+<Sitio>
+<Nombre data="Campanario"/>
+<Descripcion data = "Es el centro comercial mas antiguo e importante de la ciudad. Encuentras gran variedad de almacenes, plazoleta de comidas y el gimnasio SMARTFIT."/>
+</Sitio>
+
+<Sitio>
+<Nombre data ="PueblitoP"/>
+<Descripcion data = "Es un lugar en donde las obras de arte de la ciudad de Popayan son replicadas en formatos considerables y reunidas en un solo lugar para que los turistas puedan apreciarlas y enamorarse de tan hermosas esculturas."/>
+</Sitio>
+
+</SitiosTuristicos>
+
+
+</xml_api_reply>

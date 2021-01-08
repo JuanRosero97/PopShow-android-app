@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBotonesOpciones">#4567EF</color>
+    <color name="colorFondoActivitys">#fafafa</color>
+    <color name="Transparente">#00000000</color>
+    <color name="Amarillo">#f9ec01</color>
+    <color name="Naranaja">#ff8d02</color>
+</resources>

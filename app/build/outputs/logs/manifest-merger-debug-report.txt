@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\438122385cc6b56ffa2a41de87396ae0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e9e6d7ccfd9404f12ed0a29d135ba70\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\a5fd97dfd15ff2451ae876878534f643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\a2c4f5149b481123e6fec4f3bbfd6fb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\8ca3154fe6ca3c7b58b7cc6b7b1b780c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\2a2c7bc0607733a8b1bb993c3fa5afc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9ce5f2b5b3428e101d7accd195ddb7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\b806d1c4e775377adb6daed90452c39a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\113ed7404c0565f7548058de4863a900\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\922eaffadcf62bcb2394e7f21f4d5abe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\940c18d34ce4bc8dd43116fcbe7cde87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\311946c097db911c1a095ffdff8ca084\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\4008b15d70fc4ea88b3bf2255ac3cdca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\9eaef245f3a154ce64e3a64eb173fa72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\97f7bf14d8be9db63dba55509e06f152\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\358e296ac218cb55ff02131a41cf91aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\f2dd43cd635e3814df6f7f4745c3ed85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\3375d70ae2829e95fd5422099be904f6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\b1ef251ac01c1aeaea217bed3896448c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1deca0cc809c61667392725fd556aa08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\aa029b6b6001beb3d3e32dfe0c24f7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\53e1c5e60d29c17b84d4d1a0b2490a14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\940ded925f995383d79836e58be1cd12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e4c2dcea1a789045c871ffa0300cdda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\ab81ba9719d21baa5234c9751d1f62e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6402942a7176f91f2b008029adf1aaaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cdb448e0c17b54f0bb7698d43c7691aa\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:71-104
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:11-69
+	android:targetSandboxVersion
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:2:105-137
+uses-permission#android.permission.INTERNET
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:6:5-58:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e9e6d7ccfd9404f12ed0a29d135ba70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e9e6d7ccfd9404f12ed0a29d135ba70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\3375d70ae2829e95fd5422099be904f6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\3375d70ae2829e95fd5422099be904f6\AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:12:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:8:9-40
+	android:allowBackup
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:14:9-40
+	android:networkSecurityConfig
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:13:9-69
+activity#aplimoviles.com.popshow.SplashActivity
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:16:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:17:14-20:30
+action#android.intent.action.MAIN
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:18:21-72
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:18:29-70
+category#android.intent.category.LAUNCHER
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:19:22-81
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:19:32-79
+activity#aplimoviles.com.popshow.Principal
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:23:9-25:47
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:23:19-44
+activity#aplimoviles.com.popshow.Caldas
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:27:9-30:61
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:28:13-35
+activity#aplimoviles.com.popshow.MuseoHN
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:32:9-34:61
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:32:19-42
+activity#aplimoviles.com.popshow.Ermita
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:36:9-38:61
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:36:19-41
+activity#aplimoviles.com.popshow.Morro
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:40:9-42:60
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:42:13-57
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:40:19-40
+activity#aplimoviles.com.popshow.Campanario
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:44:9-46:65
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:44:19-45
+activity#aplimoviles.com.popshow.Pueblito
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:48:9-50:64
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:50:13-61
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:48:19-43
+activity#aplimoviles.com.popshow.favoritos
+ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:52:9-54:63
+	android:screenOrientation
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:54:13-61
+	android:name
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml:52:19-44
+uses-sdk
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\438122385cc6b56ffa2a41de87396ae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\438122385cc6b56ffa2a41de87396ae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e9e6d7ccfd9404f12ed0a29d135ba70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1e9e6d7ccfd9404f12ed0a29d135ba70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\a5fd97dfd15ff2451ae876878534f643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\a5fd97dfd15ff2451ae876878534f643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\a2c4f5149b481123e6fec4f3bbfd6fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\a2c4f5149b481123e6fec4f3bbfd6fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\8ca3154fe6ca3c7b58b7cc6b7b1b780c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\8ca3154fe6ca3c7b58b7cc6b7b1b780c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\2a2c7bc0607733a8b1bb993c3fa5afc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\2a2c7bc0607733a8b1bb993c3fa5afc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9ce5f2b5b3428e101d7accd195ddb7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9ce5f2b5b3428e101d7accd195ddb7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\b806d1c4e775377adb6daed90452c39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\b806d1c4e775377adb6daed90452c39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\113ed7404c0565f7548058de4863a900\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\113ed7404c0565f7548058de4863a900\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\922eaffadcf62bcb2394e7f21f4d5abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\922eaffadcf62bcb2394e7f21f4d5abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\940c18d34ce4bc8dd43116fcbe7cde87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\940c18d34ce4bc8dd43116fcbe7cde87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\311946c097db911c1a095ffdff8ca084\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\311946c097db911c1a095ffdff8ca084\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\4008b15d70fc4ea88b3bf2255ac3cdca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\4008b15d70fc4ea88b3bf2255ac3cdca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\9eaef245f3a154ce64e3a64eb173fa72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\9eaef245f3a154ce64e3a64eb173fa72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\97f7bf14d8be9db63dba55509e06f152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\97f7bf14d8be9db63dba55509e06f152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\358e296ac218cb55ff02131a41cf91aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\358e296ac218cb55ff02131a41cf91aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\f2dd43cd635e3814df6f7f4745c3ed85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\f2dd43cd635e3814df6f7f4745c3ed85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\91517f8155a1a40ba1896a695321e2a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\3375d70ae2829e95fd5422099be904f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\3375d70ae2829e95fd5422099be904f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\b1ef251ac01c1aeaea217bed3896448c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\b1ef251ac01c1aeaea217bed3896448c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1deca0cc809c61667392725fd556aa08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1deca0cc809c61667392725fd556aa08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\aa029b6b6001beb3d3e32dfe0c24f7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\aa029b6b6001beb3d3e32dfe0c24f7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\53e1c5e60d29c17b84d4d1a0b2490a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\53e1c5e60d29c17b84d4d1a0b2490a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\940ded925f995383d79836e58be1cd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\940ded925f995383d79836e58be1cd12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e4c2dcea1a789045c871ffa0300cdda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8e4c2dcea1a789045c871ffa0300cdda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\ab81ba9719d21baa5234c9751d1f62e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\ab81ba9719d21baa5234c9751d1f62e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6402942a7176f91f2b008029adf1aaaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6402942a7176f91f2b008029adf1aaaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cdb448e0c17b54f0bb7698d43c7691aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanRosero\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cdb448e0c17b54f0bb7698d43c7691aa\AndroidManifest.xml:20:5-44
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		ADDED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml
+		INJECTED from E:\8vo_semestre\ApliMoviles\Android\POPSHOW\app\src\main\AndroidManifest.xml

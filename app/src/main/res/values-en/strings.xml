@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">PopShow</string>
+    <string name="DescripcionCaldas">Caldas Park is the main square of the city of Popayán, Colombia. It is located in the center of the city, where all the main and representative buildings of the city converge.</string>
+    <string name="DescripcionMuseoHN">It is an important center of investigation, exhibition and projection to the community, because it stimulates the knowledge of the Natural and Social Sciences.</string>
+    <string name="DescripcionErmita">Ermita of Jesus Nazareno is the oldest temple in the city of Popayán, located on a prominence in the historic center of this city. It was the main temple of the city until 1558.</string>
+    <string name="DescripcionMorro">Morro of Tulcan is the main archaeological site of Popayán. This consists of a non-natural hill in the shape of a pyramid where on its top there is a monument in honor of the Conquistador Sebastián de Belalcázar.</string>
+    <string name="DescripcionCampanario">It is the oldest and most important shopping center in the city. you find a variety of stores, a food court and the SMARTFIT gym.</string>
+    <string name="DescripcionPueblitoP">It is a place where the works of art of the city of Popayán are replicated in considerable sizes and gathered in one place so that tourists can appreciate them and fall in love with such beautiful sculptures.</string>
+
+
+    <string name="title_activity_caldas" translatable="false">CALDAS PARK</string>
+    <string name="title_activity_MuseoHn" translatable="false">MUSEUM OF NATURAL HISTORY</string>
+    <string name="title_activity_ermita" translatable="false">ERMITA</string>
+    <string name="title_activity_morro" translatable="false">MORRO OF TULCAN</string>
+    <string name="title_activity_campanario" translatable="false">CAMPANARIO MALL</string>
+    <string name="title_activity_pueblitop" translatable="false">PUEBLITO PATOJO</string>
+    <string name="title_activity_favoritos">FAVORITES</string>
+    <string name="title_activity_splash" translatable="false">SPLASH</string>
+
+    <string name="ButtonPueblito" translatable="false">PUEBLITO PATOJO</string>
+    <string name="ButtonCaldas" translatable="false">CALDAS PARK</string>
+    <string name="ButtonMuseo" translatable="false">MUSEUM OF NATURAL HISTORY</string>
+    <string name="ButtonErmita" translatable="false">ERMITA</string>
+    <string name="ButtonMorro" translatable="false">MORRO OF TULCAN</string>
+    <string name="ButtonCampanario" translatable="false">CAMPANARIO MALL</string>
+
+    <string name="PopShow" translatable="false">PopShow</string>
+    <string name="title_caldas" translatable="false">Caldas Park</string>
+    <string name="title_museo_hn" translatable="false">Museum of Natural History</string>
+    <string name="title_ermita" translatable="false">Ermita</string>
+    <string name="title_morro" translatable="false">Morro of Tulcan</string>
+    <string name="title_campanario" translatable="false">Campanario Mall</string>
+    <string name="title_pueblitop" translatable="false">Pueblito Patojo</string>
+    <string name="Favoritos">Favorites</string>
+
+    <string name="DescubreP">"'Discover Popayán'"</string>
+    <string name="SitiosPop">Tourist Sites : </string>
+    <string name="MapaImagen" translatable="false">Map</string>
+    <string name="como_llegar">How to arrive?</string>
+    <string name="añadidoFavoritos">Added to Favorites</string>
+    <string name="Gracias">Thanks</string>
+    <string name="TextoSplash" translatable = "false"> <b>Designed by : \n@JuanRosero97 \nhttps://github.com/JuanRosero97?tab=repositories</b></string>
+    <string name="principal">Home</string>
+    <string name="QR">QR Code</string>
+    <string name="scan_canceled">Cancel Scan</string>
+    <string name="QR_no_encontrado">Not found</string>
+
+    <string name="url">http://192.168.0.126:8080/POSIBLE%20FINAL/popshow.xml</string>
+
+</resources>
