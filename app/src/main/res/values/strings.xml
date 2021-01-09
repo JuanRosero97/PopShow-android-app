@@ -46,6 +46,6 @@
     <string name="QR_no_encontrado">No encontrado</string>
 
     <!--This URL should change according to what the server provides you-->
-    <string name="url">http://192.168.100.127:8080/POSIBLE%20FINAL/popshow.xml</string>
+    <string name="url">http://192.168.100.127:8080/popshow.xml</string>
 
 </resources>
